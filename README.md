@@ -19,10 +19,10 @@ Customers pull up, pick their coffee, and the order is logged. You can track who
 
 ##  How They Relate:
 
-- A customer can place many Orders.
-- A Coffee can be included in *many Orders.
-- An Order links one Customer and one Coffee.
-- So it's a many-to-many relationship... all through Orders.
+- A customer can place many Orders.,   
+- A Coffee can be included in *many Orders.,  
+- An Order links one Customer and one Coffee.,  
+- So it's a many-to-many relationship... all through Orders.  
 
 
 ---
