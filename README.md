@@ -5,11 +5,11 @@ This mini Python system models real-world customer-coffee-order
 
 ---
 
-##  What’s the Vibe?
+##  What is this?
 
-We’ve got 3 main players:
+We’ve got 3 things:
 Customer – orders their fave drink
-Coffee – the magical beverage types
+Coffee – the beverage types
 Order – the actual transaction between the two
 
 Think of it like this:  
